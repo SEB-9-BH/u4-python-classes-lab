@@ -5,15 +5,9 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Fork this repository.
 
-```bash
-cd ~/code/ga/labs
-```
-
-Make a new repository on [GitHub](https://github.com/) named `python-classes-lab`.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
+Clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
 git clone https://github.com/<your-username>/python-classes-lab.git
